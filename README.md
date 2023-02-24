@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋 my name is ~~Bond~~ Manu :smiley:
+
+I'm passionate about numbers and computer programming
+ and
+I'm currently training at Wild Code School in order to become a data analyst.
+
+I'm free to join your company as soon as possible as a junior data analyst.
+
+- 📫 How to reach me: manuelmusy8@gmail.com
+
+Skills :
+- :snake: Python 
+- :pager: POCSAG and :airplane: ACARS message
 
 <!--
 **theperk08/theperk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
