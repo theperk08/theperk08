@@ -1,6 +1,6 @@
 ### Hi 👋 my name is ~~Bond~~ Manu :smiley:
 
-I'm passionate about numbers and computer programming
+I'm passionate about numbers (as a math teacher and in my daylife) and computer programming
  and
 I'm currently training at Wild Code School in order to become a data analyst.
 
@@ -10,7 +10,11 @@ I'm free to join your company as soon as possible as a junior data analyst.
 
 Skills :
 - :snake: Python 
-- :pager: POCSAG and :airplane: ACARS message
+- :pager: POCSAG and :airplane: ACARS messages
+
+Passion :
+ - :stars: Astrophotography
+ - :sunrise_over_mountains: CMZ, Ardennes and nature
 
 <!--
 **theperk08/theperk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
