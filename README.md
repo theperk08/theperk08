@@ -19,7 +19,7 @@ Passions :
  - :sunrise_over_mountains: CMZ, Ardennes and nature
 
 Sports / Entertainments :
-- :minidisc: frisbee
+- :minidisc: Ultimate frisbee (yes, that's a sport with good and fun spirit)
 - :earth_africa: geocaching
 - :bike: bike
 
