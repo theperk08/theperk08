@@ -9,7 +9,9 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
 Skills :
-- :snake: Python 
+- :snake: Python
+- :bookmark_tabs: SQL
+- :chart_with_upwards_trend: DataViz : PowerBi, Looker Studio, Tableau
 - :pager: POCSAG and :airplane: ACARS messages
 
 Passions :
