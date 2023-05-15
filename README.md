@@ -13,7 +13,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY%202023_05_15.pdf">My resume</a>
 
 Skills :
-- :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, Scikit-Learn)
+- :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
 - :bookmark_tabs: SQL (MySQL, DBeaver)
 - :computer: Streamlit
 - :chart_with_upwards_trend: DataViz : PowerBi, Looker Studio, Tableau
@@ -31,8 +31,6 @@ Sports / Entertainments :
 
 
 $${La \space vie \space est \space belle}$$
-
-Exemple Datapane : <a href=https://cloud.datapane.com/reports/0AEQvGA/visualisation-films-2023-04-26/> Datapane </a>
 
 <!--
 **theperk08/theperk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
