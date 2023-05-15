@@ -13,8 +13,9 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY%202023_05_15.pdf">My resume</a>
 
 Skills :
-- :snake: Python
-- :bookmark_tabs: SQL
+- :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, Scikit-Learn)
+- :bookmark_tabs: SQL (MySQL, DBeaver)
+- :computer: Streamlit
 - :chart_with_upwards_trend: DataViz : PowerBi, Looker Studio, Tableau
 - :pager: POCSAG and :airplane: ACARS messages
 
