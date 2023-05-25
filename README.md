@@ -4,7 +4,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
  
 - :computer: <b><i>I'm currently training at Wild Code School in order to become a data analyst.</i></b>
 
-- :thumbsup: I'm free to join your company as soon as possible as a junior data analyst.
+- :thumbsup: I'm free to join your company as soon as possible as a data analyst.
 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
@@ -30,7 +30,7 @@ Sports / Entertainments :
 
 
 
-$${La \space vie \space est \space belle}$$
+$${\color{blue}La \space vie \space est \space belle}$$
 
 <!--
 **theperk08/theperk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
