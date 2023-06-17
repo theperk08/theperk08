@@ -10,7 +10,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 
 - :open_file_folder: <a href ="https://theperk08.github.io/">My portfolio</a>
 
-- :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY%202023_05_15.pdf">My resume</a>
+- :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY%202023_06_05.pdf">My resume</a>
 
 Skills :
 - :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
