@@ -12,6 +12,8 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY.pdf">My resume</a>
 
+- :chart_with_upwards_trend: <a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz</a>
+
 Skills :
 - :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
 - :bookmark_tabs: SQL (MySQL, DBeaver)
