@@ -12,7 +12,16 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY.pdf">My resume</a>
 
-- :chart_with_upwards_trend: <a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz</a>
+- :chart_with_upwards_trend: <a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz :</a>  
+   -- <a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Energiesrenouvelables2022/Tableaudebord1"> Production des énergies renouvelables</a>  
+   -- <a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Tableau3_tennis/Histoire1"> Répartition des terrains de tennis</a>  
+   -- <a href = "https://public.tableau.com/app/profile/manuel.musy/viz/tudeprcaritnumrique/Histoire1"> Étude sur la précarité numérique</a>  
+   -- <a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Dlinquancedpartementale2022/Tableaudebord1"> Statistiques de la délinquance (par département)</a>  
+
+- 📊 My POWER BI Dataviz :  
+  -- <a href = "https://github.com/theperk08/aeroports"> Nombre de passagers transportés par aéroport</a>  
+  -- <a href = "https://github.com/theperk08/Product_sales"> Vente de modèles réduits par catégorie et par mois</a>  
+  
 
 Skills :
 - :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
