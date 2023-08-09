@@ -4,7 +4,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
  
 - :computer: <b><i>I'm a Data Analyst (trained at Wild Code School with RNCP title).</i></b>
 
-- :thumbsup: I'm free to join your company as soon as possible as a data analyst or apprenticeship in Data Engineer.
+- :thumbsup: <b>I'm free to join your company as soon as possible as a data analyst or apprenticeship in Data Engineer.</b>
 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
