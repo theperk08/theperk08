@@ -2,9 +2,9 @@
 
 I'm passionate about numbers (as a math teacher and in my daylife) and computer programming  
  
-- :computer: <b><i>I'm currently training at Wild Code School in order to become a data analyst.</i></b>
+- :computer: <b><i>I'm a Data Analyst (trained at Wild Code School with RNCP title).</i></b>
 
-- :thumbsup: I'm free to join your company as soon as possible as a data analyst.
+- :thumbsup: I'm free to join your company as soon as possible as a data analyst or apprenticeship in Data Engineer.
 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
