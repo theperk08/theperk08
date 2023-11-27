@@ -37,7 +37,11 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 <h3 align="center">Data</h3>
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+    <a href="https://dbeaver.io/) target="_blank" rel="noreferrer"> <img src="/images/Dbeaver-logo-50x50.jpg" alt="dbeaver" width="50" height="50"/> </a>
+	
+	
 </p>
+
 <p align="center">
 	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="/images/pandas-logo-2-500x500.jpg" alt="pandas" width="50" height="50"/> </a>
 	<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="/images/matplotlib-logo-1-500x500.jpg" alt="Matplotlib" width="50" height="50"/> </a>
