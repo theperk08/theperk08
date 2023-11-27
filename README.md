@@ -3,11 +3,17 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=data+analyst;python+programer">
 </p>
+<p style="margin: 15px;" align="center">:dart: <b><i>I'm looking for an apprenticeship as Data Engineer</i></b></p>
+<h1>
+</h1>
+<p>
 I'm passionate about numbers (as a math teacher and in my daylife) and computer programming  
- 
-- :computer: <b><i>I'm a Data Analyst (trained at Wild Code School with RNCP title).</i></b>
+</p>
 
-- :dart: <b>I'm looking for an apprenticeship as Data Engineer.</b>
+ 
+- :computer: <b>I'm a Data Analyst (trained at <a href="https://wildcodeschool.com">Wild Code School</a> with RNCP title).</b>
+
+
 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
@@ -25,8 +31,8 @@ Sports / Entertainments :
 - :bike: bike
 
 
-<!-- Projects -->
-<h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz :</a> </h1>
+<!-- Experience -->
+<h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Tableau Dataviz :</a> </h1>
 <div align="center">
   <table>
         <tr>
@@ -67,16 +73,53 @@ Sports / Entertainments :
         </tr>
   </table>
 	
-- :chart_with_upwards_trend: <a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz :</a>  
-   -- 🔁<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Energiesrenouvelables2022/Tableaudebord1"> Production des énergies renouvelables</a>  
-   -- 🎾<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Tableau3_tennis/Histoire1"> Répartition des terrains de tennis</a>  
-   -- 💻<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/tudeprcaritnumrique/Histoire1"> Étude sur la précarité numérique</a>  
-   -- 🔪<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Dlinquancedpartementale2022/Tableaudebord1"> Statistiques de la délinquance (par département)</a>  
 
+  
 - 📊 My POWER BI Dataviz :  
   -- ✈️<a href = "https://github.com/theperk08/aeroports"> Nombre de passagers transportés par aéroport</a>  
   -- 🚕<a href = "https://github.com/theperk08/Product_sales"> Vente de modèles réduits par catégorie et par mois</a>  
-  
+  <h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Power Bi Dataviz :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/theperk08/aeroports" target="_blank" rel="noreferrer"> Étude Trafic Passagers aux aéroports</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/theperk08/aeroports" target="_blank" rel="noreferrer"> <img src="images/Aeroports3.jpg" alt="trafic passagers aeroports"/> </a>
+                    <p align="center">
+                        A dashboard about the passengers trafic on french airports
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						dashboard with SQL and Power Bi
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/theperk08/Product_sales) target="_blank" rel="noreferrer">Product Sales</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer"> <img src="images/R	apport_sales.jpg" alt="Product Sales"/> </a>
+                    <p align="center">
+                        Product Sales
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Dashboard with SQL and Power Bi
+					</details>
+                </p>
+            </td>
+        </tr>
+  </table>
+	
+
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
 <h3 align="center">Programming</h3>
