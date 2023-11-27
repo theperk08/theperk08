@@ -15,6 +15,58 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY.pdf">My resume</a>
 
+Passions :
+ - :milky_way: Astrophotography
+ - :sunrise_over_mountains: CMZ, Ardennes and nature
+
+Sports / Entertainments :
+- :minidisc: Ultimate frisbee (yes, that's a sport with good and fun spirit)
+- :earth_africa: geocaching
+- :bike: bike
+
+
+<!-- Projects -->
+<h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://public.tableau.com/app/profile/manuel.musy/viz/tudeMarchVins/Histoire1" target="_blank" rel="noreferrer"> Étude Marché de Vins</a>
+                </h3>
+                <p align="center">
+                    <a href="https://public.tableau.com/app/profile/manuel.musy/viz/tudeMarchVins/Histoire1" target="_blank" rel="noreferrer"> <img src="images/Certif_Data1.jpg" alt="étude marché vins"/> </a>
+                    <p align="center">
+                        A dashboard for a price recommandation for a french wine on the US market
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						RNCP title of Data Analyst
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://public.tableau.com/app/profile/manuel.musy/viz/ConsommationlectriqueEnedis/Tableaudebord1" target="_blank" rel="noreferrer">Consommation électrique Enedis</a>
+                </h3>
+                <p align="center">
+                    <a href="https://public.tableau.com/app/profile/manuel.musy/viz/ConsommationlectriqueEnedis/Tableaudebord1" target="_blank" rel="noreferrer"> <img src="https://public.tableau.com/static/images/Co/ConsommationlectriqueEnedis/Tableaudebord1/4_3.png" alt="Enedis"/> </a>
+                    <p align="center">
+                        Electricity consumption
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Electricity consumption for households and small enterprises with Enedis
+					</details>
+                </p>
+            </td>
+        </tr>
+  </table>
+	
 - :chart_with_upwards_trend: <a href ="https://public.tableau.com/app/profile/manuel.musy">My Tableau Dataviz :</a>  
    -- 🔁<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Energiesrenouvelables2022/Tableaudebord1"> Production des énergies renouvelables</a>  
    -- 🎾<a href = "https://public.tableau.com/app/profile/manuel.musy/viz/Tableau3_tennis/Histoire1"> Répartition des terrains de tennis</a>  
@@ -68,19 +120,10 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 </p>
 
 - :snake:  Numpy
-- :bookmark_tabs: SQL (, DBeaver)
 
 
 - :pager: POCSAG and :airplane: ACARS messages
 
-Passions :
- - :milky_way: Astrophotography
- - :sunrise_over_mountains: CMZ, Ardennes and nature
-
-Sports / Entertainments :
-- :minidisc: Ultimate frisbee (yes, that's a sport with good and fun spirit)
-- :earth_africa: geocaching
-- :bike: bike
 
 
 
