@@ -30,18 +30,20 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 <h3 align="center">Programming</h3>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="/images/Streamlit-logo-500.png" alt="streamlit" width="50" height="50"/> </a>
-
- 
+<a href="https://docs.datapane.com/" target="_blank" rel="noreferrer"> <img src="/images/Datapane-logo_500x500.jpg" alt="datapane" width="50" height="50"/> </a>
 </p>
-
 
 <h3 align="center">Data</h3>
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 </p>
 <p align="center">
+	
+	<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="/images/matplotlib-logo-1-500x500.jpg" alt="Matplotlib" width="50" height="50"/> </a>
 	<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="/images/Plotly-logo_500x500.jpg" alt="Plotly" width="50" height="50"/> </a>
+	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="/images/Seaborn-logo_500x500.jpg" alt="seaborn" width="50" height="50"/> </a>
 	<a href="https://nltk.org/" target="_blank" rel="noreferrer"> <img src="/images/Nltk-logo-500.png" alt="Nltk" width="50" height="50"/> </a>
 	</p>
 <p align="center">
@@ -62,10 +64,10 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
     <a href="https://www.zwoastro.com/products/asistudio" target="_blank"> <img src="/images/ASIStudio-logo-500x500.jpg" alt="AsiStudio" width="50" height="50"/> </a>
 </p>
 
-- :snake: (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
+- :snake:  Numpy, Matplotlib, )
 - :bookmark_tabs: SQL (, DBeaver)
 
-- :chart_with_upwards_trend: DataViz : PowerBi, Looker Studio, Tableau
+
 - :pager: POCSAG and :airplane: ACARS messages
 
 Passions :
