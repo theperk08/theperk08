@@ -102,7 +102,7 @@ Sports / Entertainments :
                     <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer">Product Sales</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer"> <img src="/images/R	apport_sales.jpg" alt="Product Sales"/> </a>
+                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer"> <img src="/images/Rapport_sales.jpg" alt="Product Sales"/> </a>
                     <p align="center">
                         Product Sales
                     </p>
@@ -128,7 +128,7 @@ Sports / Entertainments :
                     <a href="https://cyclam-stations.streamlit.app" target="_blank" rel="noreferrer"> Statistiques Stations Cyclam</a>
                 </h3>
                 <p align="center">
-                    <a href="[https://cyclam-stations.streamlit.app/" target="_blank" rel="noreferrer"> <img src="/images/Cyclam_stations1.jpg" alt="trafic passagers aeroports"/> </a>
+                    <a href="https://cyclam-stations.streamlit.app/" target="_blank" rel="noreferrer"> <img src="/images/Cyclam_stations1.jpg" alt="trafic passagers aeroports"/> </a>
                     <p align="center">
                         Statistics about electrical bike stations
                     </p>
@@ -159,6 +159,50 @@ Sports / Entertainments :
             </td>
         </tr>
   </table>
+	
+<!-- Personal Projects -->
+
+ <h1 align="center">My last Python Softwares :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/theperk08/dkrypton" target="_blank" rel="noreferrer"> Dkrypton</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/theperk08/dkrypton" target="_blank" rel="noreferrer"> <img src="/images/Dkrypton_compte_texte.jpg" alt="dkrypton cryptanalysis"/> </a>
+                    <p align="center">
+                        Cryptanalysis and Decipher Software
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Software (in Python) to decipher basics Caesar, Vigenere... with cryptanalysis
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer">SDR Decoder</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer"> <img src="/images/POCSAG_ACARS_Messages_Exemples.jpg.jpg" alt="Product Sales"/> </a>
+                    <p align="center">
+                        ACARS and POCSAG messages decoder
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Software (in Python) to decode ACARS (aviation) and POCSAG (text messaging) messages (via an RTL-SDR dongle)
+					</details>
+                </p>
+            </td>
+        </tr>
+  </table>
+
 
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
