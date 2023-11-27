@@ -32,6 +32,7 @@ Sports / Entertainments :
 
 
 <!-- Experience -->
+<!-- Tableau Dataviz -->
 <h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Tableau Dataviz :</a> </h1>
 <div align="center">
   <table>
@@ -74,11 +75,8 @@ Sports / Entertainments :
   </table>
 	
 
-  
-- 📊 My POWER BI Dataviz :  
-  -- ✈️<a href = "https://github.com/theperk08/aeroports"> Nombre de passagers transportés par aéroport</a>  
-  -- 🚕<a href = "https://github.com/theperk08/Product_sales"> Vente de modèles réduits par catégorie et par mois</a>  
-  <h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Power Bi Dataviz :</a> </h1>
+<!-- Power Bi Dataviz -->
+<h1 align="center">My last Power Bi Dataviz :</h1>
 <div align="center">
   <table>
         <tr>
@@ -87,7 +85,7 @@ Sports / Entertainments :
                     <a href="https://github.com/theperk08/aeroports" target="_blank" rel="noreferrer"> Étude Trafic Passagers aux aéroports</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/theperk08/aeroports" target="_blank" rel="noreferrer"> <img src="images/Aeroports3.jpg" alt="trafic passagers aeroports"/> </a>
+                    <a href="https://github.com/theperk08/aeroports" target="_blank" rel="noreferrer"> <img src="/images/Aeroports3.jpg" alt="trafic passagers aeroports"/> </a>
                     <p align="center">
                         A dashboard about the passengers trafic on french airports
                     </p>
@@ -101,10 +99,10 @@ Sports / Entertainments :
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://github.com/theperk08/Product_sales) target="_blank" rel="noreferrer">Product Sales</a>
+                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer">Product Sales</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer"> <img src="images/R	apport_sales.jpg" alt="Product Sales"/> </a>
+                    <a href="https://github.com/theperk08/Product_sales" target="_blank" rel="noreferrer"> <img src="/images/R	apport_sales.jpg" alt="Product Sales"/> </a>
                     <p align="center">
                         Product Sales
                     </p>
@@ -118,7 +116,49 @@ Sports / Entertainments :
             </td>
         </tr>
   </table>
-	
+
+<!-- Streamlit Projects -->
+
+ <h1 align="center">My last Streamlit Projects :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://cyclam-stations.streamlit.app" target="_blank" rel="noreferrer"> Statistiques Stations Cyclam</a>
+                </h3>
+                <p align="center">
+                    <a href="[https://cyclam-stations.streamlit.app/" target="_blank" rel="noreferrer"> <img src="/images/Cyclam_stations1.jpg" alt="trafic passagers aeroports"/> </a>
+                    <p align="center">
+                        Statistics about electrical bike stations
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Interactive dashboard for statistics (collected during one month via API in real time) about electrical bike locations stations. 
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://ardennes-mobilite.streamlit.app/ target="_blank" rel="noreferrer">Sustainable mobility in Ardennes</a>
+                </h3>
+                <p align="center">
+                    <a href="https://ardennes-mobilite.streamlit.app/" target="_blank" rel="noreferrer"> <img src="/images/Appli_Mobilite.jpg" alt="Product Sales"/> </a>
+                    <p align="center">
+                        Interactive map with sustainable mobility points
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Interactive map to find sustainable mobility points from an address in Charleville-Mézières
+					</details>
+                </p>
+            </td>
+        </tr>
+  </table>
 
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
