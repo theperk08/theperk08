@@ -1,10 +1,13 @@
-### Hi 👋 my name is ~~Bond~~ Manu :smiley:
-
+<h1 align="center"> Hi 👋 my name is Manu :smiley: </h1>
+<!-- Intro -->
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=data+analyst;pythpon+programer">
+</p>
 I'm passionate about numbers (as a math teacher and in my daylife) and computer programming  
  
 - :computer: <b><i>I'm a Data Analyst (trained at Wild Code School with RNCP title).</i></b>
 
-- :thumbsup: <b>I'm free to join your company as soon as possible as a data analyst or apprenticeship in Data Engineer.</b>
+- :dart: <b>I'm looking for an apprenticeship as Data Engineer.</b>
 
 - 📫 How to reach me: manuelmusy8@gmail.com
 
@@ -22,10 +25,30 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
   -- ✈️<a href = "https://github.com/theperk08/aeroports"> Nombre de passagers transportés par aéroport</a>  
   -- 🚕<a href = "https://github.com/theperk08/Product_sales"> Vente de modèles réduits par catégorie et par mois</a>  
   
+<!-- Technos -->
+<h1 align="center">Languages and Tools 🛠</h1>
+<h3 align="center">Programming</h3>
+<p align="center">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="/images/Streamlit-logo-500.png" alt="streamlit" width="40" height="40"/> </a>
 
-Skills :
-- :snake: Python (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
-- :bookmark_tabs: SQL (MySQL, DBeaver)
+ 
+</p>
+
+
+<h3 align="center">Data</h3>
+<p align="center">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+	
+</p>
+
+<h3 align="center">Front</h3>
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+</p>
+- :snake: (Pandas, Numpy, Matplotlib, Seaborn, PlotlyExpress, DataPane, Scikit-Learn)
+- :bookmark_tabs: SQL (, DBeaver)
 - :computer: Streamlit
 - :chart_with_upwards_trend: DataViz : PowerBi, Looker Studio, Tableau
 - :pager: POCSAG and :airplane: ACARS messages
