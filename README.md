@@ -142,7 +142,7 @@ Sports / Entertainments :
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://ardennes-mobilite.streamlit.app/ target="_blank" rel="noreferrer">Sustainable mobility in Ardennes</a>
+                    <a href="https://ardennes-mobilite.streamlit.app/ target="_blank" rel="noreferrer">Carte des points de mobilités douces</a>
                 </h3>
                 <p align="center">
                     <a href="https://ardennes-mobilite.streamlit.app/" target="_blank" rel="noreferrer"> <img src="/images/Appli_Mobilite.jpg" alt="Product Sales"/> </a>
@@ -188,7 +188,7 @@ Sports / Entertainments :
                     <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer">SDR Decoder</a>
                 </h3>
                 <p align="center">
-                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer"> <img src="/images/POCSAG_ACARS_Messages_Exemples.jpg.jpg" alt="Product Sales"/> </a>
+                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer"> <img src="/images/POCSAG_ACARS_Messages_Exemples.jpg" alt="RTL-SDR Decoder"/> </a>
                     <p align="center">
                         ACARS and POCSAG messages decoder
                     </p>
