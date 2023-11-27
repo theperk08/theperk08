@@ -185,7 +185,7 @@ Sports / Entertainments :
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer">SDR Decoder</a>
+                    <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer">RTL-SDR Decoder</a>
                 </h3>
                 <p align="center">
                     <a href="https://github.com/theperk08/SDR_decoder" target="_blank" rel="noreferrer"> <img src="/images/POCSAG_ACARS_Messages_Exemples.jpg" alt="RTL-SDR Decoder"/> </a>
