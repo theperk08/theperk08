@@ -31,6 +31,10 @@ Sports / Entertainments :
 - :bike: bike
 
 
+
+$${\color{blue}La \space vie \space est \space belle}$$
+
+----------
 <!-- Experience -->
 <!-- Tableau Dataviz -->
 <h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Tableau Dataviz :</a> </h1>
@@ -246,15 +250,6 @@ Sports / Entertainments :
     <a href="https://www.zwoastro.com/products/asistudio" target="_blank"> <img src="/images/ASIStudio-logo-500x500.jpg" alt="AsiStudio" width="50" height="50"/> </a>
 </p>
 
-- :snake:  Numpy
-
-
-- :pager: POCSAG and :airplane: ACARS messages
-
-
-
-
-$${\color{blue}La \space vie \space est \space belle}$$
 
 <!--
 **theperk08/theperk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
