@@ -36,6 +36,33 @@ $${\color{blue}La \space vie \space est \space belle}$$
 
 ----------
 <!-- Experience -->
+<!-- Machine Learning -->
+<h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Machine Learning Project :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://www.kaggle.com/code/manuelm08/radar-images-nowcasting" target="_blank" rel="noreferrer"> RAdar Image Nowcasting</a>
+                </h3>
+                <p align="center">
+                    <a href="https://www.kaggle.com/code/manuelm08/radar-images-nowcasting" target="_blank" rel="noreferrer"> <img src="images/Radar_nowcasting2a.jpg" alt="radar image nowcasting"/> </a>
+                    <p align="center">
+                        A Deep Learning prediction for radar satellite images of amount of precipitations
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						Use of Neural Network for Prediction
+					</details>
+            </p>
+            </td>
+            
+        </tr>
+  </table>
+
+ 
 <!-- Tableau Dataviz -->
 <h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Tableau Dataviz :</a> </h1>
 <div align="center">
