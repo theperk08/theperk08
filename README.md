@@ -58,8 +58,8 @@ $${\color{blue}La \space vie \space est \space belle}$$
 					</details>
             </p>
             </td>
-            
-        </tr>
+  	</tr>
+       
   </table>
 
  
