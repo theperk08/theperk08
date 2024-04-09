@@ -21,6 +21,10 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 
 - :page_facing_up: <a href = "https://theperk08.github.io/assets/resume/CV%20Manuel%20MUSY.pdf">My resume</a>
 
+- :newspaper: <a href = "https://www.linkedin.com/in/manuel-musy/">My linkedin</a>
+
+- :globe_with_meridians: <a href = "https://datardennes.fr">My WebSite</a>
+
 Passions :
  - :milky_way: Astrophotography
  - :sunrise_over_mountains: CMZ, Ardennes and nature
