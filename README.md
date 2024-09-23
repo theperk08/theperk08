@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋 my name is Manu :smiley: </h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=data+analyst;python+programer">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=Data+Analyst;Data+Engineer;Python+Programer;">
 </p>
-<p style="margin: 15px;" align="center">:dart: <b><i>I'm looking for an apprenticeship as Data Engineer</i></b></p>
+
 <h1>
 </h1>
 <p>
@@ -11,7 +11,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 </p>
 
  
-- :computer: <b>I'm a Data Analyst (trained at <a href="https://wildcodeschool.com">Wild Code School</a> with RNCP title).</b>
+- :computer: <b>I'm a Data Analyst (trained at <a href="https://wildcodeschool.com">Wild Code School</a> with RNCP title) and Data Engineer at Spacefot.</b>
 
 
 
