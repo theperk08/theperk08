@@ -11,7 +11,7 @@ I'm passionate about numbers (as a math teacher and in my daylife) and computer 
 </p>
 
  
-- :computer: <b>I'm a Data Analyst (trained at <a href="https://wildcodeschool.com">Wild Code School</a> with RNCP title) and Data Engineer at Spacefot.</b>
+- :computer: <b>I'm a Data Analyst (trained at <a href="https://wildcodeschool.com">Wild Code School</a> with RNCP title) and Data Engineer at Spacefoot.</b>
 
 
 
