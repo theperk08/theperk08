@@ -64,7 +64,7 @@ $${\color{blue}La \space vie \space est \space belle}$$
 				<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_SNCF_arrivals.jpg" width="150" alt="ModilArdennes App SNCF Arrivals"/> </a>
 		    </p>
                     <p align="center">
-                        An Android App about the in French Ardennes
+                        An Android App about sustainable mobilities in French Ardennes
                     </p>
 					<details>
 						<summary>
