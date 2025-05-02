@@ -40,8 +40,46 @@ $${\color{blue}La \space vie \space est \space belle}$$
 
 ----------
 <!-- Experience -->
+
+<!-- Android Applications -->
+<h1 align="center"><a href ="https://github.com/theperk08/MobilArdennes"  target="_blank" rel="noreferrer">My last Android App :</a> </h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> MobilArdennes App</a>
+                </h3>
+                <p align="center">
+			<p>
+                    <a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_Menu.jpg" width="150" alt="ModilArdennes App Cyclam"/> </a>
+				<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_Cyclam_Stations.jpg" width="150" alt="ModilArdennes App Cyclam Stations"/> </a>
+			<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_Cyclam_map2.jpg" width="150" alt="ModilArdennes App Cyclam Map"/> </a>
+				<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_Cyclam_SingleStation.jpg" width="150" alt="ModilArdennes App Cyclam Single Station"/> </a>
+			</p>
+		    <p>
+			    <a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_TAC08_lines.jpg" width="150" alt="ModilArdennes App TAC08 lines"/> </a>
+				<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_TAC08_linemap.jpg" width="150" alt="ModilArdennes App TAC08_linemap"/> </a>
+			<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_SNCF_destination.jpg" width="150" alt="ModilArdennes App SNCF Destinations"/> </a>
+				<a href="https://github.com/theperk08/MobilArdennes" target="_blank" rel="noreferrer"> <img src="https://github.com/theperk08/MobilArdennes/blob/main/Illustrations/MA_SNCF_arrivals.jpg" width="150" alt="ModilArdennes App SNCF Arrivals"/> </a>
+		    </p>
+                    <p align="center">
+                        An Android App about the in French Ardennes
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						program in Kotlin with Android Studio
+					</details>
+            </p>
+            </td>
+  	</tr>
+       
+  </table>
+
 <!-- Machine Learning -->
-<h1 align="center"><a href ="https://public.tableau.com/app/profile/manuel.musy">My last Machine Learning Project :</a> </h1>
+<h1 align="center"><a href ="https://www.kaggle.com/code/manuelm08/radar-images-nowcasting"  target="_blank" rel="noreferrer">My last Machine Learning Project :</a> </h1>
 <div align="center">
   <table>
         <tr>
