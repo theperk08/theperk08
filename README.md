@@ -282,6 +282,8 @@ $${\color{blue}La \space vie \space est \space belle}$$
 <h3 align="center">Programming</h3>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>	
+	<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="/images/Kotlin_logo_2021.svg.png" alt="kotlin" width="50" height="50"/> </a>
+	
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="/images/Streamlit-logo-500.png" alt="streamlit" width="50" height="50"/> </a>
 <a href="https://docs.datapane.com/" target="_blank" rel="noreferrer"> <img src="/images/Datapane-logo_500x500.jpg" alt="datapane" width="50" height="50"/> </a>
 </p>
