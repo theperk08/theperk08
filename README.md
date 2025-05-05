@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 my name is Manu :smiley: </h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=Data+Analyst;Data+Engineer;Python+Programer;">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=649A8D&center=true&vCenter=true&lines=Data+Analyst;Data+Engineer;Python+Developer;">
 </p>
 
 <h1>
